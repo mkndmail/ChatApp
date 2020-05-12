@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "79389613140",
+    "firebase_url": "https://flash-chat-c2bb8.firebaseio.com",
+    "project_id": "flash-chat-c2bb8",
+    "storage_bucket": "flash-chat-c2bb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79389613140:android:dfd30a6471fbf35046e1c1",
+        "android_client_info": {
+          "package_name": "co.mkndmail.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79389613140-3c4bh1piv13gdjfesftsgif8v9sia91v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr5j7X9wjX_bjoX1q3FnEs1CVVsX7rk8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79389613140-3c4bh1piv13gdjfesftsgif8v9sia91v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
